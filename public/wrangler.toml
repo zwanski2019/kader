@@ -1,7 +1,6 @@
 name = "kader-site"
-type = "webpack"
+compatibility_date = "2025-07-25"
+main = "worker.js"  # This can be a dummy file if using assets
 
-account_id = "your_account_id"
-workers_dev = true
-routes = ["https://kader.zwanski.org/*"]
-zone_id = "your_zone_id"
+[site]
+bucket = "./kader-birthday-site"
