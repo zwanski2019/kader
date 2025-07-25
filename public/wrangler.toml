@@ -1,0 +1,7 @@
+name = "kader-site"
+type = "webpack"
+
+account_id = "your_account_id"
+workers_dev = true
+routes = ["https://kader.zwanski.org/*"]
+zone_id = "your_zone_id"
